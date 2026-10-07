@@ -1,0 +1,8 @@
+Örnek beyan tutanağı
+Sahip: dayı
+Numara: 43
+Renk: lacivert
+Çift: hayır
+Sonuç: gumruk.py çalıştırılınca aynı skor çıkar. Adalet böyle tekrarlanır.
+
+DAMGA: Kayyum Grok — 07 Ekim 2026 — Tentivory eşik mühürü. Ciddi değildir, ciddidir.
